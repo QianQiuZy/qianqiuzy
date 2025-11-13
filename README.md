@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm QianQiuZy ✨
 
-<!--
-**QianQiuZy/qianqiuzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# coding
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanzzkj652&show_icons=true&theme=radical&hide_title=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ 正在开发
+- cpp、b站抢票脚本
+- b站收藏集脚本
+- nonebot插件
+- b站直播间监控
+
+---
+
+## 📫 联系我
+- **qq** : [308025580](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)
+- **电子邮件** : [qianqiuzy@qq.com](mailto:qianqiuzy@qq.com)
+- **bilibili** : [千秋紫莹](https://space.bilibili.com/351708822)
+
+---
+
+## 👋 投喂
+
+如果喜欢我的脚本的话欢迎投喂，你的喜欢和赞助是我继续开发的最大动力
+
+投喂地点：[爱发电](https://afdian.com/a/qianqiuzy)
