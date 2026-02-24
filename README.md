@@ -2,7 +2,7 @@
 
 # coding
 
-![QianQiuZy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianQiuZy&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![QianQiuZy's GitHub Stats](https://gh-stats.work/API?username=QianQiuZy&show_icons=true&theme=radical&count_private=true&locale=cn)
 
 ---
 
