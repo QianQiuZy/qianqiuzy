@@ -29,4 +29,4 @@
 
 如果喜欢我的脚本的话欢迎投喂，你的喜欢和赞助是我继续开发的最大动力
 
-投喂地点：[爱发电](https://afdian.com/a/qianqiuzy)
+[![QianQiuZy's Profile](https://sponsor.qianqiuzy.cn/profile.svg?slug=qianqiuzy)](https://ifdian.net/a/qianqiuzy)
