@@ -4,16 +4,17 @@
 
 ![QianQiuZy's GitHub Stats](https://gh-stats.work/API?username=QianQiuZy&show_icons=true&theme=radical&count_private=true&locale=cn)
 
-![QianQiuZy's Top Langs](https://gh-stats.work/api/top-langs/?username=qianqiuzy&layout=compact)
+![QianQiuZy's Top Langs](https://gh-stats.work/api/top-langs/?username=qianqiuzy&layout=compact&locale=cn)
 
 ---
 
 ## 🛠️ 正在开发
-- cpp、b站抢票脚本
+- cpp、b站会员购抢票脚本
 - b站收藏集脚本
-- nonebot插件
+- nonebot2插件
 - b站直播间监控
-- 油猴脚本
+- 油猴js脚本
+- harei.cn
 
 ---
 
