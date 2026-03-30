@@ -4,7 +4,7 @@
 
 ![QianQiuZy's GitHub Stats](https://gh-stats.work/API?username=QianQiuZy&show_icons=true&theme=radical&count_private=true&locale=cn)
 
-![QianQiuZy's Top Langs](https://gh-stats.work/api/top-langs/?username=qianqiuzy&layout=compact&locale=cn)
+![QianQiuZy's Top Langs](https://gh-stats.work/api/top-langs/?username=qianqiuzy&theme=radical&layout=compact&locale=cn)
 
 ---
 
